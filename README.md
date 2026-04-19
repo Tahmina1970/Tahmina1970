@@ -3,7 +3,7 @@
 
 I turn customer data into clear insights and dashboards that support retention, revenue, and executive decision-making.
 
-📍 BerlinWuppertal, NRW, Germany • ✉️ tahminaalam28@gmail.com • 🔗 LinkedIn: www.linkedin.com/in/tahmina-alam
+📍 Wuppertal, NRW, Germany • ✉️ tahminaalam28@gmail.com • 🔗 LinkedIn: www.linkedin.com/in/tahmina-alam
 
 ## Featured Projects
 
