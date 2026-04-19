@@ -3,7 +3,7 @@
 
 I turn customer data into clear insights and dashboards that support retention, revenue, and executive decision-making.
 
-📍 Berlin, Germany • ✉️ tahminaalam28@gmail.com • 🔗 LinkedIn: www.linkedin.com/in/tahmina-alam
+📍 BerlinWuppertal, NRW, Germany • ✉️ tahminaalam28@gmail.com • 🔗 LinkedIn: www.linkedin.com/in/tahmina-alam
 
 ## Featured Projects
 
@@ -27,6 +27,9 @@ I turn customer data into clear insights and dashboards that support retention, 
 
 - **Personal Loan Campaign** — decision tree targeting & campaign optimization  
   Repo: https://github.com/Tahmina1970/personal-loan-campaign
+
+- **Churn Risk Analysis & Customer Segmentation** — customer segmentation and business insights using Python  
+Repo: https://github.com/Tahmina1970/churn-risk-analysis
 
 ## What I Can Help With
 
