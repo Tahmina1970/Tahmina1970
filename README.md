@@ -1,7 +1,7 @@
 ## Hi, I'm Tahmina 👋  
 **Data Analyst | Power BI & DAX | Python & SQL | Churn, Retention & Business Intelligence**
 
-I turn customer data into clear insights and dashboards that support retention, revenue, and executive decision-making.
+I build data-driven solutions using AI, automation, and business intelligence to help companies improve customer retention, optimize performance, and make better decisions.
 
 📍 Wuppertal, NRW, Germany • ✉️ tahminaalam28@gmail.com • 🔗 LinkedIn: www.linkedin.com/in/tahmina-alam
 
