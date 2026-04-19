@@ -7,6 +7,9 @@ I turn customer data into clear insights and dashboards that support retention, 
 
 ## Featured Projects
 
+- **Churn Risk Analysis & Customer Segmentation** — customer segmentation and business insights using Python  
+Repo: https://github.com/Tahmina1970/churn-risk-analysis
+
 - **Customer Churn Risk Dashboard (Power BI & DAX)** — executive-level churn analysis and risk segmentation dashboard  
   Repo: https://github.com/Tahmina1970/churn-risk-dashboard
 
@@ -28,8 +31,7 @@ I turn customer data into clear insights and dashboards that support retention, 
 - **Personal Loan Campaign** — decision tree targeting & campaign optimization  
   Repo: https://github.com/Tahmina1970/personal-loan-campaign
 
-- **Churn Risk Analysis & Customer Segmentation** — customer segmentation and business insights using Python  
-Repo: https://github.com/Tahmina1970/churn-risk-analysis
+
 
 ## What I Can Help With
 
