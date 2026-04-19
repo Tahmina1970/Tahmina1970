@@ -7,6 +7,9 @@ I turn customer data into clear insights and dashboards that support retention, 
 
 ## Featured Projects
 
+- **AI & Data Business Solutions** — AI agents, automation, BI dashboards, and data-driven solutions for business growth  
+Repo: https://github.com/Tahmina1970/ai-business-solutions
+
 - **Churn Risk Analysis & Customer Segmentation** — customer segmentation and business insights using Python  
 Repo: https://github.com/Tahmina1970/churn-risk-analysis
 
